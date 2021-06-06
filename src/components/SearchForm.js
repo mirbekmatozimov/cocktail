@@ -26,7 +26,6 @@ export default function SearchForm() {
             ref={searchValue}
             onChange={searchCocktail}
           />
-          <i className="icon"></i>
         </div>
       </form>
     </section>
