@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cocktail/static/css/main.67a2c7ec.chunk.css",
+    "main.js": "/cocktail/static/js/main.ee6377de.chunk.js",
+    "main.js.map": "/cocktail/static/js/main.ee6377de.chunk.js.map",
+    "runtime-main.js": "/cocktail/static/js/runtime-main.c98f1fc0.js",
+    "runtime-main.js.map": "/cocktail/static/js/runtime-main.c98f1fc0.js.map",
+    "static/js/2.72303b8e.chunk.js": "/cocktail/static/js/2.72303b8e.chunk.js",
+    "static/js/2.72303b8e.chunk.js.map": "/cocktail/static/js/2.72303b8e.chunk.js.map",
+    "index.html": "/cocktail/index.html",
+    "precache-manifest.39d84530465a3119bef042844c6d6118.js": "/cocktail/precache-manifest.39d84530465a3119bef042844c6d6118.js",
+    "service-worker.js": "/cocktail/service-worker.js",
+    "static/css/main.67a2c7ec.chunk.css.map": "/cocktail/static/css/main.67a2c7ec.chunk.css.map",
+    "static/js/2.72303b8e.chunk.js.LICENSE.txt": "/cocktail/static/js/2.72303b8e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cocktail/static/media/logo.9a3d2645.svg",
+    "static/media/index.css": "/cocktail/static/media/search.2ea4c436.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c98f1fc0.js",
+    "static/js/2.72303b8e.chunk.js",
+    "static/css/main.67a2c7ec.chunk.css",
+    "static/js/main.ee6377de.chunk.js"
+  ]
+}
